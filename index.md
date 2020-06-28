@@ -8,3 +8,6 @@ Captain Jack Sparrow (*1689 in einem Taifun auf See, †1728 vom Kraken gefresse
 * Häuptling der Pelegostos (kurzzeitig)
 * Captain der Black Pearl
 * Hauptcharakter der Filmreihe "Fluch der Karibik"
+
+Jack Sparrow Zitate:
+> Ihr werdet diesen Tag niemals vergessen, an dem ihr Captain Jack Sparrow beinahe geschnappt hättet!
