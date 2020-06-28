@@ -11,3 +11,5 @@ Captain Jack Sparrow (*1689 in einem Taifun auf See, †1728 vom Kraken gefresse
 
 Jack Sparrow Zitate:
 > Ihr werdet diesen Tag niemals vergessen, an dem ihr Captain Jack Sparrow beinahe geschnappt hättet!
+
+<img src="https://upload.wikimedia.org/wikipedia/en/a/a2/Jack_Sparrow_In_Pirates_of_the_Caribbean-_At_World%27s_End.JPG"/>
