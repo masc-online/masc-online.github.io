@@ -1,1 +1,3 @@
 # Jack Sparrow
+
+Captain Jack Sparrow (*1689 in einem Taifun auf See, †1728 vom Kraken gefressen, wurde später wiederbelebt) ist ein Pirat und Captain der Black Pearl. Des weiteren ist er Piratenfürst der Karibik und damit ein Mitglied im Hohen Rat der Bruderschaft. Er ist sehr eigenartig, bewahrt aber immer einen klugen und kühlen Kopf. Jack Sparrow ist stolz auf die Black Pearl, gerät jedoch gerade ihretwegen immer wieder in Streit mit seinem Widersacher und ehemaligem ersten Maat, Hector Barbossa. Er hat immer unlogische Sätze auf Lager (Beispielsweise zur Ablenkung), welche einen wesentlichen Teil seines eigenartigen Charakters ausmachen. 
