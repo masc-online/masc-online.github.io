@@ -14,4 +14,4 @@ Um die Aufgabe zu starten, folge einfach folgenden Schritten:
 Die Webseite verändert sich immer, wenn auf dem master ein neuer Commit stattgefunden hat. Wenn du die Veränderungen anschauen möchtest, die du auf deinem feature-Branch erstellt hast, schau dir die index.md Datei in deinem Repository auf GitHub an. Bedenke, dass du auch auf GitHub den Branch wechseln kannst. Um deine Änderungen zu sehen musst du beim Betrachten der Index.md oben links deinen Branch auswählen. Nun kannst du sehen, was beim Formatieren der Inhalte nicht ganz funktioniert hat.
 
 Test 1
-Test 2
+Test 2 mit 2 Commits
